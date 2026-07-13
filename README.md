@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
