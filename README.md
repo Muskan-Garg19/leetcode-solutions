@@ -80,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
