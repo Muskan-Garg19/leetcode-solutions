@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Simulation
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
