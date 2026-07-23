@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0389-find-the-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -178,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
