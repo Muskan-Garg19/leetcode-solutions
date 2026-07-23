@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
