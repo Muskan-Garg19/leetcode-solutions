@@ -1,40 +1,37 @@
 class Solution {
 
-    class Pair implements Comparable<Pair> {
-        char ch;
-        int free;
-        public Pair(char ch, int free) {
-            this.ch = ch;
-            this.free = free;
-        }
-        public int compareTo(Pair p) {
-            return p.free - this.free;
-        }
-    }
-
     public int minimumPushes(String word) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] arr = new int[26];
         for(int i = 0; i < word.length(); i++){
-            map.put(word.charAt(i), map.getOrDefault(word.charAt(i), 0) + 1);
+            char ch = word.charAt(i);
+            int index = ch-'a';
+            arr[index]++;
         }
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
-        for(char key: map.keySet()) {
-            pq.add(new Pair(key, map.get(key)));
+        //sorting in descending order;
+        for(int i = 0; i< 26; i++) {
+            for(int j = 0; j < 26 - i - 1; j++) {
+                if(arr[j] < arr[j+1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
         }
 
         int ans = 0;
-        int i = 1;
+        int i = 0;
+        int n = 1;
 
-        while(!pq.isEmpty()) {
+        while(i< arr.length && arr[i] > 0) {
             int j = 1;
-            while(!pq.isEmpty() && j<= 8) {
-                Pair p = pq.remove();
-                int free = p.free;
-                ans += (free * i);
+            while(i< arr.length && arr[i] > 0 && j<= 8) {
+                int free = arr[i];
+                ans += (free * n);
+                i++;
                 j++;
             }
-            i++;
+            n++;
         }
 
         return ans;
