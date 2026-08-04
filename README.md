@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
