@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
