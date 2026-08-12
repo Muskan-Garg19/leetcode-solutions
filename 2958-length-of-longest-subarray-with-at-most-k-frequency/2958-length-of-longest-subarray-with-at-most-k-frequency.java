@@ -6,10 +6,7 @@ class Solution {
         int ans = Integer.MIN_VALUE;
         while(right< nums.length) {
             int elem = nums[right];
-            int freequency = 0;
-            if(map.containsKey(elem)) {
-                freequency = map.get(nums[right]);
-            }
+            int freequency = map.getOrDefault(nums[right], 0);
             if(freequency + 1 <= k) {
                 map.put(nums[right], freequency + 1);
                 right++;
