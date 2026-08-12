@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Sliding Window
 |  |
 | ------- |
