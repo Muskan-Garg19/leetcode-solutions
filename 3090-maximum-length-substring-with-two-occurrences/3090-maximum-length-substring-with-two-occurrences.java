@@ -3,17 +3,17 @@ class Solution {
         int left = 0;
         int right = 0;
         int ans = 0;
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] free = new int[26];
         while(right < s.length()) {
             char ch = s.charAt(right);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-            if(map.get(ch) > 2) {
+            free[ch - 'a']++;
+            if(free[ch - 'a'] > 2) {
                 ans = Math.max(ans, right-left);
                 while(s.charAt(left) != ch) {
-                    map.put(s.charAt(left), map.get(s.charAt(left)) - 1);
+                    free[s.charAt(left) - 'a']--;
                     left++;
                 }
-                map.put(s.charAt(left), map.get(s.charAt(left)) - 1);
+                free[s.charAt(left) - 'a']--;
                 left++;
                 right++;
             }
