@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
