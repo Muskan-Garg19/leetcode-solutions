@@ -6,16 +6,18 @@ class Solution {
         if(dp[i][buyStatus] != -1) {
             return dp[i][buyStatus];
         }
+        int ans;
         if(buyStatus == 0) {
             int buy = helper(prices, i+1, 1, fee, dp) - prices[i];
             int notBuy = helper(prices, i+1, 0, fee, dp);
-            return dp[i][buyStatus] = Math.max(buy, notBuy);
+            ans = Math.max(buy, notBuy);
         }
         else {
             int sell = helper(prices, i+1, 0, fee, dp) + prices[i] - fee;
             int notSell = helper(prices, i+1, 1, fee, dp);
-            return dp[i][buyStatus] = Math.max(sell, notSell);
+            ans = Math.max(sell, notSell);
         }
+        return dp[i][buyStatus] = ans;
     }
     public int maxProfit(int[] prices, int fee) {
         int n = prices.length;
