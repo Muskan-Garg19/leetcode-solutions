@@ -1,38 +1,20 @@
 class Solution {
-    private static List<String> helper(int n) {
-        List<List<StringBuilder>> ans = new ArrayList<>();
-        List<StringBuilder> list = new ArrayList<>();
-        list.add(new StringBuilder(""));
-        ans.add(list);
-        list = new ArrayList<>();
-        list.add(new StringBuilder("()"));
-        ans.add(list);
-        for(int i=2; i<n+1; i++) {
-            list = new ArrayList<>();
-            for(int j=0; j<i; j++) {
-                for(int k=0; k<ans.get(j).size(); k++) {
-                    StringBuilder outer = new StringBuilder(ans.get(j).get(k));
-                    outer.insert(0, '(');
-                    outer.append(")");
-                    for(int l=0; l<ans.get(i-j-1).size(); l++) {
-                        StringBuilder newOuter = new StringBuilder(outer);
-                        newOuter.append(ans.get(i-j-1).get(l));
-                        list.add(newOuter);
-                    }
-                }
-            }
-            ans.add(list);
+    private static void helper(List<String> ans, int n, int opening, int closing, StringBuilder sb) {
+        if(opening == n && closing == n) {
+            ans.add(sb.toString());
         }
-
-        list = ans.get(n);
-        List<String> finalAns = new ArrayList<>();
-        for(int i=0; i<list.size(); i++) {
-            finalAns.add(list.get(i).toString());
+        if(opening < n) {
+            helper(ans, n, opening+1, closing, sb.append('('));
+            sb.deleteCharAt(sb.length() - 1);
         }
-
-        return finalAns;
+        if(closing < opening) {
+            helper(ans, n, opening, closing+1, sb.append(')'));
+            sb.deleteCharAt(sb.length() - 1);
+        }
     }
     public List<String> generateParenthesis(int n) {
-        return helper(n);
+        List<String> ans = new ArrayList<>();
+        helper(ans, n, 0, 0, new StringBuilder());
+        return ans;
     }
 }
