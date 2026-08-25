@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -454,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
