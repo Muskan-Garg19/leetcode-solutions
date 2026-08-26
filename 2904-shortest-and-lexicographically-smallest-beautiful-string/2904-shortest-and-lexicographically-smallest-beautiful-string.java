@@ -13,26 +13,22 @@ class Solution {
                     right++;
                     continue;
                 }
-                while(count > k) {
-                    if (s.charAt(left) == '1') {
-                        count--;
-                    }
+                if(count > k) {
+                    left++;
+                    count--;
+                }
+                while(left < right && s.charAt(left) == '0') {
                     left++;
                 }
-                if(count == k) {
-                    while(left < right && s.charAt(left) == '0') {
-                        left++;
-                    }
-                    String str = s.substring(left, right+1);
-                    if(right - left + 1 < ansCount) {
-                        ans = str;
-                        ansCount = right - left + 1;
-                    }
-                    else if(right - left + 1 == ansCount && str.compareTo(ans) < 0) {
-                        ans = str;
-                    }
-                    right++;
+                String str = s.substring(left, right+1);
+                if(right - left + 1 < ansCount) {
+                    ans = str;
+                    ansCount = right - left + 1;
                 }
+                else if(right - left + 1 == ansCount && str.compareTo(ans) < 0) {
+                    ans = str;
+                }
+                right++;
             }
         }
         return ans;
