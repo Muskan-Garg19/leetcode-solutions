@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Binary Indexed Tree
