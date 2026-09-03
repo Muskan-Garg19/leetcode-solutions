@@ -18,19 +18,13 @@ class Solution {
         while(i < n && odd && even) {
             if(nums[i] % 2 != 0) {
                 odd = true;
-                if(oddMin != nums[i] && nums[i] - oddMin >= 1) {
-                    even = true;
-                }
-                else {
+                if(oddMin == nums[i] || nums[i] - oddMin < 1) {
                     even = false;
                 }
             }
             else {
                 even = true;
-                if(oddMin != nums[i] && nums[i] - oddMin >=1 ) {
-                    odd = true;
-                }
-                else {
+                if(oddMin == nums[i] || nums[i] - oddMin < 1 ) {
                     odd = false;
                 }
             }
@@ -40,10 +34,7 @@ class Solution {
         if(odd) {
             while(i < n) {
                 if(nums[i] % 2 == 0) {
-                    if(oddMin != nums[i] && nums[i] - oddMin >= 1) {
-                        odd = true;
-                    }
-                    else {
+                    if(oddMin == nums[i] || nums[i] - oddMin < 1) {
                         return false;
                     }
                 }
@@ -54,10 +45,7 @@ class Solution {
         else if(even) {
             while(i < n) {
                 if(nums[i] % 2 != 0) {
-                    if(oddMin != nums[i] && nums[i] - oddMin >= 1) {
-                        even = true;
-                    }
-                    else {
+                    if(oddMin == nums[i] || nums[i] - oddMin < 1) {
                         return false;
                     }
                 }
