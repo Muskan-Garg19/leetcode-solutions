@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0198-house-robber) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
