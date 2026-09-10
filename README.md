@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
