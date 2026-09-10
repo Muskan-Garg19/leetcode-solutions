@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
