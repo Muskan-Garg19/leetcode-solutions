@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0835-image-overlap](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -600,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
