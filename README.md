@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -610,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
