@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
