@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0045-jump-game-ii) |
