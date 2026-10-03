@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0044-wildcard-matching) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
