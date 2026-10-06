@@ -16,7 +16,6 @@ class Solution {
                 }
             }
         }
-        ans += count;
-        return ans;
+        return ans + count;
     }
 }
