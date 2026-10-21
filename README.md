@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0547-number-of-provinces](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 ## Memoization
 |  |
 | ------- |
