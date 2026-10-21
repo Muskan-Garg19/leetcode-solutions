@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -610,12 +612,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
