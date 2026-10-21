@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -618,12 +621,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 ## Memoization
 |  |
