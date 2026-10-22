@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1302-deepest-leaves-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
