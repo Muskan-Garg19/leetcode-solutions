@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0851-loud-and-rich](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
