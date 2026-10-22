@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0886-possible-bipartition) |
+| [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1020-number-of-enclaves](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Trie
 |  |
 | ------- |
