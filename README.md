@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Topological Sort
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0919-complete-binary-tree-inserter](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0919-complete-binary-tree-inserter) |
 ## Trie
 |  |
@@ -759,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
