@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Muskan-Garg19/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
